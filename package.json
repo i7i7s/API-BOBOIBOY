@@ -1,0 +1,18 @@
+{
+  "name": "bbb-api",
+  "version": "1.0.0",
+  "description": "BoBoiBoy Game API - Elements, Enemies, and Missions data for Flutter game",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "vercel build",
+    "deploy": "vercel --prod"
+  },
+  "keywords": ["boboiboy", "api", "game", "flutter"],
+  "author": "Daffa Alwafi",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.x"
+  }
+}
