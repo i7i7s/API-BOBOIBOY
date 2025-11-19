@@ -1,4 +1,4 @@
-[
+const elements = [
   {
     "id": 1,
     "code": "PETIR",
@@ -699,8 +699,7 @@
       }
     ]
   }
-]
-
+];
 
 export default function handler(req, res) {
   if (req.method === "GET") {
